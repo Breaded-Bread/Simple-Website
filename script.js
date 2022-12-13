@@ -1,3 +1,3 @@
 while (true){
-    window.open(about:blank,'_blank');
-  }
+    window.open('https://google.com','_blank');
+}
