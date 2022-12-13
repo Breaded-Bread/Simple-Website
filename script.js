@@ -1,3 +1,3 @@
 while (true){
-  windown.open(about:blank,'_blank');
-}
+    window.open(about:blank,'_blank');
+  }
