@@ -1,5 +1,3 @@
-funnyscript (){
-  while (true){
-    open(about:blank);
-  }
+while (true){
+  open(about:blank);
 }
